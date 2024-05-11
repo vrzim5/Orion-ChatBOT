@@ -1,6 +1,7 @@
 # Orion-ChatBOT
 
 Orion: Um Chatbot para Auxiliar Crianças Autistas na Interação Social
+
 Descrição:
 
 Orion é um chatbot projetado para auxiliar crianças no espectro autista a desenvolverem suas habilidades de interação social. Criado utilizando Python, Google Collab, Gemini API e Google AI Studio, Orion oferece um ambiente seguro e interativo onde as crianças podem praticar a comunicação e a construção de relacionamentos.
